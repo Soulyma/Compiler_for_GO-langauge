@@ -1,4 +1,4 @@
-# Compiler_for_GO-langauge
+# Compiler_for_GO_langauge
 Using Java and JAVACC I designed a mini Interpreter that  handle errors and execute statements for GO codes
 ( With alot of help of OOP logic )
 My Mini GO language will include the following statements
